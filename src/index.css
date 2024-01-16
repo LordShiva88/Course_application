@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-bg{
+  background-color: rgb(246, 105, 98);
+}
+.secondary-bg{
+  background-color: rgb(255, 101, 117);
+}
+.secondary-bg{
+  background-color: rgb(180, 167, 245);
+}
+.primary-text{
+  background-color: rgb(246, 105, 98);
+}
+.secondary-text{
+  background-color: rgb(246, 105, 98);
+}
